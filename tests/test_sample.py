@@ -1,4 +1,4 @@
-import config.configuration as config
+import config_suraj.configuration as config
 from oslo_config import cfg
 def test_answer():
 
