@@ -9,7 +9,7 @@ install_reqs, dep_links = fetch_requirements(REQUIREMENTS_FILE)
 
 setup(
     name='config_suraj',
-    version=0.3,
+    version=0.4,
     description='using oslo_config template to create configuration to register',
     author='Suraj',
     author_email='suraj.iot257@gmail.com',
